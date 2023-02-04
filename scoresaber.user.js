@@ -6,7 +6,6 @@
 // @namespace    https://scoresaber.com
 // @match        http://scoresaber.com/*
 // @match        https://scoresaber.com/*
-// @icon         https://scoresaber.com/imports/images/logo.ico
 // @updateURL    https://github.com/Splamy/ScoreSaberEnhanced/raw/master/scoresaber.user.js
 // @downloadURL  https://github.com/Splamy/ScoreSaberEnhanced/raw/master/scoresaber.user.js
 // @require      https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.js
